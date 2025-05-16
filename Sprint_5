@@ -1,0 +1,26 @@
+#TripleTen Sprint 5 Project - SuperStore Returns
+
+##Saving SuperStore
+
+I was hired as a consultant to discover What is causing the high number of returned orders at the Superstore? 
+
+##The Data
+
+The data is provided by TripleTen in the form of a singular excel sheet with two tables. 
+**Returns**, **Orders** and **People**
+
+##The Process
+
+I imported the dataset into Tableau to better visualize the summarization of the data. I had to ensure the data tables were properly joined in order for the information to connect properly 
+
+The Project was broken down into 2 major parts to analyze the data
+
+What is Causing Returns? - using the data set I was able to create a calculated field to find the return rate compared to a variable of my choice. 
+
+Building a Dashboard for Monitoring Returns -
+
+##Results
+
+To conclude this project I made a presentation via loom walking the stakeholders through my findings and recommendations
+
+Please have a look at my [Tableau Dashboards](https://public.tableau.com/shared/2CN3BBYZD?:display_count=n&:origin=viz_share_link) for more information
