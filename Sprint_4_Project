@@ -1,0 +1,30 @@
+# TripleTen Sprint 4 Project - Saving SuperStore
+
+This is the 2nd project I worked on in the TripleTen Data Science program. 
+
+
+### Saving SuperStore
+
+I have been "hired" as a consultant to review the superstore’s operations and increase its profitability to avoid bankruptcy. 
+
+#### The Data
+
+The data is provided by TripleTen in the form of a singular excel sheet. 
+
+#### The Process
+
+I imported the dataset into Tableau to better visualize the summarization of the data. Since it was all in a single file there was no need to join or relate to any other files. 
+
+The Project was broken down into 3 major aspects to digest the data properly. 
+
+Part 1: Profits & losses- I identified the important centers of profit and loss for the superstore.
+
+Part 2: Advertising- The superstore wanted to know if advertising would be worth it. Using the data set I identified the 3 best state/month combos that would make for a successful advertising campaign.
+
+Part 3: Returned items- Superstore asked me to identify which product and which customers had the highest return rates based on the data. 
+
+### Results
+
+Finally, I created 3 dashboards to better deliver the information back to the SuperStore higherups and submit my recomendations.
+
+Please have a look at my [Tableau Dashboards](https://public.tableau.com/views/Sprint4FinalProject_17413006689780/Part2AverageProfitPerMonth?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) for more information
